@@ -1,196 +1,196 @@
-Afghanistan
-Albania
-Algeria
-Andorra
-Angola
-Antigua & Deps
-Argentina
-Armenia
-Australia
-Austria
-Azerbaijan
-Bahamas
-Bahrain
-Bangladesh
-Barbados
-Belarus
-Belgium
-Belize
-Benin
-Bhutan
-Bolivia
-Bosnia Herzegovina
-Botswana
-Brazil
-Brunei
-Bulgaria
-Burkina
-Burundi
-Cambodia
-Cameroon
-Canada
-Cape Verde
-Central African Rep
-Chad
-Chile
-China
-Colombia
-Comoros
-Congo
-Congo {Democratic Rep}
-Costa Rica
-Croatia
-Cuba
-Cyprus
-Czech Republic
-Denmark
-Djibouti
-Dominica
-Dominican Republic
-East Timor
-Ecuador
-Egypt
-El Salvador
-Equatorial Guinea
-Eritrea
-Estonia
-Ethiopia
-Fiji
-Finland
-France
-Gabon
-Gambia
-Georgia
-Germany
-Ghana
-Greece
-Grenada
-Guatemala
-Guinea
-Guinea-Bissau
-Guyana
-Haiti
-Honduras
-Hungary
-Iceland
-India
-Indonesia
-Iran
-Iraq
-Ireland {Republic}
-Israel
-Italy
-Ivory Coast
-Jamaica
-Japan
-Jordan
-Kazakhstan
-Kenya
-Kiribati
-Korea North
-Korea South
-Kosovo
-Kuwait
-Kyrgyzstan
-Laos
-Latvia
-Lebanon
-Lesotho
-Liberia
-Libya
-Liechtenstein
-Lithuania
-Luxembourg
-Macedonia
-Madagascar
-Malawi
-Malaysia
-Maldives
-Mali
-Malta
-Marshall Islands
-Mauritania
-Mauritius
-Mexico
-Micronesia
-Moldova
-Monaco
-Mongolia
-Montenegro
-Morocco
-Mozambique
-Myanmar, {Burma}
-Namibia
-Nauru
-Nepal
-Netherlands
-New Zealand
-Nicaragua
-Niger
-Nigeria
-Norway
-Oman
-Pakistan
-Palau
-Panama
-Papua New Guinea
-Paraguay
-Peru
-Philippines
-Poland
-Portugal
 Qatar
-Romania
-Russian Federation
-Rwanda
-St Kitts & Nevis
 St Lucia
+Monaco
+Argentina
+Iceland
+Equatorial Guinea
+Namibia
+Mauritius
+Belarus
+New Zealand
+Mauritania
+Antigua & Deps
+Finland
 Saint Vincent & the Grenadines
-Samoa
-San Marino
+Mexico
+Panama
+Burundi
+Malaysia
+Dominica
+United Arab Emirates
+Korea South
+El Salvador
+Laos
+Ecuador
+Croatia
+Poland
+Nauru
+Senegal
+Andorra
+Guinea
+Vatican City
 Sao Tome & Principe
 Saudi Arabia
-Senegal
-Serbia
-Seychelles
-Sierra Leone
-Singapore
-Slovakia
-Slovenia
-Solomon Islands
-Somalia
-South Africa
-South Sudan
-Spain
-Sri Lanka
-Sudan
-Suriname
 Swaziland
-Sweden
-Switzerland
-Syria
-Taiwan
-Tajikistan
-Tanzania
-Thailand
-Togo
-Tonga
-Trinidad & Tobago
-Tunisia
-Turkey
-Turkmenistan
-Tuvalu
+China
 Uganda
-Ukraine
-United Arab Emirates
-United Kingdom
-United States
-Uruguay
-Uzbekistan
-Vanuatu
-Vatican City
+Netherlands
+Switzerland
+Belize
+Comoros
+Korea North
+Brazil
+Slovenia
+South Africa
+Suriname
+Slovakia
+Guatemala
+Singapore
+Haiti
+Eritrea
+Canada
 Venezuela
-Vietnam
+Paraguay
+Czech Republic
+Montenegro
+Micronesia
+Congo
+Uzbekistan
+Japan
+Liberia
+Egypt
+Tunisia
+Tajikistan
+Jordan
+Austria
+Bolivia
+Kosovo
+Bangladesh
+Hungary
+Algeria
+Cyprus
+India
+Gabon
+Syria
+Bahamas
+Ivory Coast
+Bosnia Herzegovina
+Kiribati
+Rwanda
+Azerbaijan
+Dominican Republic
+Ukraine
+Guyana
+Seychelles
+Chad
 Yemen
+Italy
+Sweden
+Portugal
+Tonga
+United Kingdom
+Vietnam
+Luxembourg
+Armenia
+Taiwan
+Russian Federation
+Somalia
+Thailand
+Botswana
+Lebanon
+Solomon Islands
+Mali
+Lesotho
+Mozambique
+Serbia
+Moldova
+Jamaica
+Libya
+Tuvalu
+Barbados
+Turkey
+Sudan
+Ireland {Republic}
+Samoa
+Pakistan
+Fiji
+Vanuatu
+Papua New Guinea
+Tanzania
+Albania
+Grenada
+Bulgaria
+Benin
+Belgium
+Myanmar, {Burma}
+Ethiopia
+Turkmenistan
+Spain
+Nepal
+Greece
+Australia
+Afghanistan
+Marshall Islands
+Honduras
+Macedonia
+Mongolia
+Ghana
+Israel
+Germany
+Uruguay
+Norway
+Guinea-Bissau
+Georgia
+Angola
+Nigeria
+Nicaragua
+Costa Rica
+Kuwait
+Cuba
+Iraq
+Central African Rep
+Madagascar
 Zambia
+France
+Chile
+United States
+Trinidad & Tobago
+Kenya
+Lithuania
+Morocco
+Burkina
+Bahrain
+Kazakhstan
+South Sudan
+Gambia
+Sierra Leone
+Togo
+Denmark
+Niger
+Kyrgyzstan
+Indonesia
+Liechtenstein
+Palau
+Congo {Democratic Rep}
+Malta
+Latvia
+Iran
+Philippines
+Cameroon
+East Timor
+Peru
+St Kitts & Nevis
+Estonia
+Sri Lanka
 Zimbabwe
+Brunei
+Cape Verde
+Cambodia
+Bhutan
+Oman
+Djibouti
+San Marino
+Maldives
+Romania
+Colombia
+Malawi
