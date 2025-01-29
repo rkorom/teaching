@@ -1,26 +1,26 @@
-Film,Cim,Műfaj,Stúdió,Közönség értékelés (%),Bevétel (milliard $),Ev
-Avatar,Avatar,Akció,20th Century Fox,82,2.847,2009
-Avengers: Endgame,Bosszúállók: Végjáték,Akcio,Marvel Studios,91,2.798,2019
-Titanic,Titanic,Romantikus,20th Century Fox,90,2.187,1997
-Star Wars: Az Ébredő Erő,Star Wars: Az Ébredő Erő,Akcio,Lucasfilm,86,2.068,2015
-Avengers: Infinity War,Bosszúállók: Végtelen háború,Akcio,Marvel Studios,91,2.048,2018
-Spider-Man: No Way Home,Pókember: Nincs hazaút,Akcio,Marvel Studios,98,1.921,2021
-Jurassic World,Jurassic World,Akcio,Universal Pictures,78,1.671,2015
-The Lion King (2019),Oroszlánkirály (2019),Animáció,Disney,88,1.663,2019
-The Avengers,Bosszúállók,Akcio,Marvel Studios,91,1.518,2012
-Furious 7,Halálos iramban 7,Akcio,Universal Pictures,82,1.516,2015
-Frozen II,Jégvarázs II,Animacio,Disney,92,1.450,2019
-Avengers: Age of Ultron,Bosszúállók: Ultron kora,Akcio,Marvel Studios,85,1.403,2015
-Black Panther,Fekete Párduc,Akcio,Marvel Studios,79,1.347,2018
-Harry Potter and the Deathly Hallows: Part 2,Harry Potter és a Halál Ereklyéi 2,Fantasy,Warner Bros.,89,1.342,2011
-Star Wars: The Last Jedi,Star Wars: Az utolsó Jedik,Akcio,Lucasfilm,85,1.332,2017
-Frozen,Jegvaráz,Animacio,Disney,92,1.330,2013
-Beauty and the Beast (2017),A Szépség és a Szörnyeteg (2017),Fantasy,Disney,80,1.264,2017
-Incredibles 2,A Hihetetlen család 2,Animacio,Pixar,91,1.242,2018
-The Fate of the Furious,Halálos iramban 8,Akcio,Universal Pictures,75,1.236,2017
-Iron Man 3,Vasember 3,Akcio,Marvel Studios,78,1.215,2013
-Minions,Minyonok,Animacio,Universal Pictures,74,1.159,2015
-Captain America: Civil War,Amerika Kapitány: Polgárháború,Akcio,Marvel Studios,89,1.153,2016
-Aquaman,Aquaman,Akcio,Warner Bros.,74,1.148,2018
-The Lord of the Rings: The Return of the King,A Gyűrűk Ura: A király visszatér,Fantasy,New Line Cinema,95,1.142,2003
-Skyfall,Skyfall,Akcio,Columbia Pictures,86,1.108,2012
+Film,Cim,Műfaj,Stúdió,Közönség értékelés (%),Bevétel (millió $),Gyártási költség (millió $),Nyereségességi arány,Év
+Avatar,Avatar,Akció,20th Century Fox,82,2847,237,12.0,2009
+Avengers: Endgame,Bosszúállók: Végjáték,Akció,Marvel Studios,91,2798,356,7.9,2019
+Titanic,Titanic,Romantikus,20th Century Fox,90,2187,200,10.9,1997
+Star Wars: Az Ébredő Erő,Star Wars: Az Ébredő Erő,Akció,Lucasfilm,86,2068,245,8.4,2015
+Avengers: Infinity War,Bosszúállók: Végtelen háború,Akció,Marvel Studios,91,2048,316,6.5,2018
+Spider-Man: No Way Home,Pókember: Nincs hazaút,Akció,Marvel Studios,98,1921,200,9.6,2021
+Jurassic World,Jurassic World,Akció,Universal Pictures,78,1671,150,11.1,2015
+The Lion King (2019),Oroszlánkirály (2019),Animáció,Disney,88,1663,260,6.4,2019
+The Avengers,Bosszúállók,Akció,Marvel Studios,91,1518,220,6.9,2012
+Furious 7,Halálos iramban 7,Akció,Universal Pictures,82,1516,190,8.0,2015
+Frozen II,Jégvarázs II,Animáció,Disney,92,1450,150,9.7,2019
+Avengers: Age of Ultron,Bosszúállók: Ultron kora,Akció,Marvel Studios,85,1403,365,3.8,2015
+Black Panther,Fekete Párduc,Akció,Marvel Studios,79,1347,200,6.7,2018
+Harry Potter and the Deathly Hallows: Part 2,Harry Potter és a Halál Ereklyéi 2,Fantasy,Warner Bros.,89,1342,250,5.4,2011
+Star Wars: The Last Jedi,Star Wars: Az utolsó Jedik,Akció,Lucasfilm,85,1332,317,4.2,2017
+Frozen,Jégvarázs,Animáció,Disney,92,1330,150,8.9,2013
+Beauty and the Beast (2017),A Szépség és a Szörnyeteg (2017),Fantasy,Disney,80,1264,160,7.9,2017
+Incredibles 2,A Hihetetlen család 2,Animáció,Pixar,91,1242,200,6.2,2018
+The Fate of the Furious,Halálos iramban 8,Akció,Universal Pictures,75,1236,250,4.9,2017
+Iron Man 3,Vasember 3,Akció,Marvel Studios,78,1215,200,6.1,2013
+Minions,Minyonok,Animáció,Universal Pictures,74,1159,74,15.7,2015
+Captain America: Civil War,Amerika Kapitány: Polgárháború,Akció,Marvel Studios,89,1153,250,4.6,2016
+Aquaman,Aquaman,Akció,Warner Bros.,74,1148,160,7.2,2018
+The Lord of the Rings: The Return of the King,A Gyűrűk Ura: A király visszatér,Fantasy,New Line Cinema,95,1142,94,12.1,2003
+Skyfall,Skyfall,Akció,Columbia Pictures,86,1108,200,5.5,2012
