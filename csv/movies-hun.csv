@@ -1,26 +1,26 @@
-Film,Műfaj,Stúdió,Közönség értékelés (%),Bevétel (millió $),Év
-Avatar,Akció,20th Century Fox,82,2847,2009
-Bosszúállók: Végjáték,Akció,Marvel Studios,91,2798,2019
-Titanic,Romantikus,20th Century Fox,90,2187,1997
-Star Wars: Az Ébredő Erő,Akció,Lucasfilm,86,2068,2015
-Bosszúállók: Végtelen háború,Akció,Marvel Studios,91,2048,2018
-Pókember: Nincs hazaút,Akció,Marvel Studios,98,1921,2021
-Jurassic World,Akció,Universal Pictures,78,1671,2015
-Oroszlánkirály (2019),Animáció,Disney,88,1663,2019
-Bosszúállók,Akció,Marvel Studios,91,1518,2012
-Halálos iramban 7,Akció,Universal Pictures,82,1516,2015
-Jégvarázs II,Animáció,Disney,92,1450,2019
-Bosszúállók: Ultron kora,Akció,Marvel Studios,85,1403,2015
-Fekete Párduc,Akció,Marvel Studios,79,1347,2018
-Harry Potter és a Halál Ereklyéi 2,Fantasy,Warner Bros.,89,1342,2011
-Star Wars: Az utolsó Jedik,Akció,Lucasfilm,85,1332,2017
-Jégvarázs,Animáció,Disney,92,1330,2013
-A Szépség és a Szörnyeteg (2017),Fantasy,Disney,80,1264,2017
-A Hihetetlen család 2,Animáció,Pixar,91,1242,2018
-Halálos iramban 8,Akció,Universal Pictures,75,1236,2017
-Vasember 3,Akció,Marvel Studios,78,1215,2013
-Minyonok,Animáció,Universal Pictures,74,1159,2015
-Amerika Kapitány: Polgárháború,Akció,Marvel Studios,89,1153,2016
-Aquaman,Akció,Warner Bros.,74,1148,2018
-A Gyűrűk Ura: A király visszatér,Fantasy,New Line Cinema,95,1142,2003
-Skyfall,Akció,Columbia Pictures,86,1108,2012
+Film,Műfaj,Stúdió,Közönség értékelés (%),Bevétel (millió $),Kiadás (millió $),Év
+Avatar,Akció,20th Century Fox,82,2847,261,2009
+Bosszúállók: Végjáték,Akció,Marvel Studios,91,2798,356,2019
+Titanic,Romantikus,20th Century Fox,90,2187,294,1997
+Star Wars: Az Ébredő Erő,Akció,Lucasfilm,86,2068,447,2015
+Bosszúállók: Végtelen háború,Akció,Marvel Studios,91,2048,325,2018
+Pókember: Nincs hazaút,Akció,Marvel Studios,98,1921,200,2021
+Jurassic World,Akció,Universal Pictures,78,1671,150,2015
+Oroszlánkirály (2019),Animáció,Disney,88,1663,260,2019
+Bosszúállók,Akció,Marvel Studios,91,1518,220,2012
+Halálos iramban 7,Akció,Universal Pictures,82,1516,190,2015
+Jégvarázs II,Animáció,Disney,92,1450,150,2019
+Bosszúállók: Ultron kora,Akció,Marvel Studios,85,1403,365,2015
+Fekete Párduc,Akció,Marvel Studios,79,1347,200,2018
+Harry Potter és a Halál Ereklyéi 2,Fantasy,Warner Bros.,89,1342,250,2011
+Star Wars: Az utolsó Jedik,Akció,Lucasfilm,85,1332,317,2017
+Jégvarázs,Animáció,Disney,92,1330,150,2013
+A Szépség és a Szörnyeteg (2017),Fantasy,Disney,80,1264,255,2017
+A Hihetetlen család 2,Animáció,Pixar,91,1242,200,2018
+Halálos iramban 8,Akció,Universal Pictures,75,1236,250,2017
+Vasember 3,Akció,Marvel Studios,78,1215,200,2013
+Minyonok,Animáció,Universal Pictures,74,1159,74,2015
+Amerika Kapitány: Polgárháború,Akció,Marvel Studios,89,1153,250,2016
+Aquaman,Akció,Warner Bros.,74,1148,160,2018
+A Gyűrűk Ura: A király visszatér,Fantasy,New Line Cinema,95,1142,94,2003
+Skyfall,Akció,Columbia Pictures,86,1108,200,2012
