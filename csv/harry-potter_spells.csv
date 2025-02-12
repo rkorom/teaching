@@ -1,0 +1,36 @@
+Varázslat neve,Kategória,Erő,Mana költség,Hatótávolság
+Avada Kedavra,Támadó,100,100,10
+Crucio,Támadó,95,90,8
+Imperio,Támadó,90,85,8
+Sectumsempra,Támadó,85,80,6
+Confringo,Támadó,80,75,15
+Reducto,Támadó,70,65,12
+Bombarda,Támadó,65,60,10
+Bombarda Maxima,Támadó,85,80,15
+Diffindo,Támadó,60,55,10
+Stupefy,Támadó,75,70,15
+Expelliarmus,Támadó,70,65,10
+Tarantallegra,Támadó,40,15,3
+Densaugeo,Támadó,35,10,2
+Incendio,Támadó,70,60,8
+Confundo,Támadó,50,30,5
+Expulso,Támadó,65,60,10
+Protego,Védekező,80,60,5
+Expecto Patronum,Védekező,95,90,20
+Finite Incantatem,Védekező,60,30,5
+Protego Maxima,Védekező,90,80,5
+Muffliato,Védekező,40,20,3
+Alohomora,Segítő,0,5,1
+Wingardium Leviosa,Segítő,0,10,2
+Lumos,Segítő,0,2,5
+Nox,Segítő,0,2,5
+Accio,Segítő,0,10,25
+Reparo,Segítő,0,8,2
+Engorgio,Segítő,0,12,3
+Evanesco,Segítő,0,5,1
+Homenum Revelio,Segítő,0,15,5
+Orchideous,Segítő,0,10,3
+Obliviate,Segítő,0,40,0
+Arresto Momentum,Segítő,0,5,2
+Rennervate,Segítő,0,5,1
+Episkey,Segítő,0,5,1
