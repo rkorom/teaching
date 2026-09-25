@@ -1,37 +1,38 @@
+import { useState } from "react";
 import "./App.css";
-import type { Ember } from "./types/Ember";
 
 function App() {
-  const emberek: Array<Ember> = [
-    { nev: "John Doe", kor: 30, varos: "New York" },
-    { nev: "Jane Smith", kor: 25, varos: "Los Angeles" },
-    { nev: "Alice Johnson", kor: 28, varos: "Chicago" },
-  ];
-
-  emberek.push({ nev: "x", kor: 15, varos: "Szeged" });
-
-  const generateRow = (e: Ember) => {
-    return (
-      <tr>
-        <td>{e.nev}</td>
-        <td>{e.kor}</td>
-        <td>{e.varos}</td>
-      </tr>
-    );
-  };
+  const [szoveg, setSzoveg] = useState<string>("");
+  const [eredmeny, setEredmeny] = useState<string>("");
+  const [valasztott, setValasztott] = useState<string>("");
 
   return (
     <>
-      <table>
-        <thead>
-          <tr>
-            <th>Név</th>
-            <th>Kor</th>
-            <th>Város</th>
-          </tr>
-        </thead>
-        <tbody>{emberek.map((i) => generateRow(i))}</tbody>
-      </table>
+      <h1>Hello World</h1>
+      <h2>{eredmeny}</h2>
+
+      <input
+        onChange={(e) => setSzoveg(e.target.value)}
+        type="text"
+        placeholder="Írj be valamit..."
+      />
+
+      <select onChange={(e) => setValasztott(e.target.value)}>
+        <option value="">Válassz egy opciót</option>
+        <option value="Első opció">Első opció</option>
+        <option value="Második opció">Második opció</option>
+        <option value="Harmadik opció">Harmadik opció</option>
+      </select>
+
+      <button
+        onClick={() =>
+          setEredmeny(
+            `A megadott szöveg: ${szoveg}, A választott opció: ${valasztott}`,
+          )
+        }
+      >
+        Print
+      </button>
     </>
   );
 }
