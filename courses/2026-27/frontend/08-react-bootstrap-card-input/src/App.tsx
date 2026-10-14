@@ -4,7 +4,7 @@ import { useState } from "react";
 import { initPizza } from "./Pizzak";
 
 const App = () => {
-  const [allPizza, setAllPizza] = useState<Array<Pizza>>(initPizza);
+  const [allPizza, setAllPizza] = useState<Array<Pizza>>();
 
   const [nev, setNev] = useState<string>("");
   const [leiras, setLeiras] = useState<string>("");
