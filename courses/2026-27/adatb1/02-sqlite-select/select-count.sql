@@ -1,0 +1,3 @@
+SELECT COUNT(*)
+FROM filmek
+WHERE ev > 2023
